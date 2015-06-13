@@ -1,8 +1,8 @@
-Insight Code Challenge: Word Count and Running Median
+# Insight Code Challenge by Xianda Long
 
 This is for fullfiling the requirements for code challenge from Insight Data Engineering Program
 
-Both programs yielded correct output under windows and ubuntu 
+Both programs yielded correct output Ubuntu (14.04.2, 32bit) 
 
 Notes:
 
